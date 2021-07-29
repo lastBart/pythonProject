@@ -46,7 +46,7 @@
 # name = input("Введите имя ")
 # print("Привет")
 # print(name)
-# name2 = input("Введите второе имя ")
+# name2 = input("Введите второе имя  ")
 # print("Привет")
 # print(name2)
 # print(f"{name} и {name2} лучшие друзья!!!!!")
